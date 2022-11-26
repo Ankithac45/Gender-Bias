@@ -16,14 +16,15 @@ This emotive examination of tweets raises public awareness and permits women to 
 * Spacy
 * nltk
 
-## Biasfinder: Generating metamorphic tests to detect bias in sentiment analysis systems
 ## Data Extraction:
 Web scraping of Twitter data has been used to collect data from social networking services (SNS). The SNSCRAPE scraping utility retrieves data from hashtags without the need to access Twitter's API or obtain developer account permission.
 ## Model Build and Validation:
-
+Preprocessing is done with the separation of training and testing datasets, the removal of superfluous characters, the definition of vocabulary of preferred words, and the creation of an extensive and unique dataset for our research. This results in the creation of a Bag-Of-Words Model that is obtained from each tweet in the dataset that contains both positive and negative hashtags by passing it through the NLP technique of Biasfinder in Sentimental Analysis.
+## Biasfinder: Generating metamorphic tests to detect bias in sentiment analysis systems
 ![image](https://user-images.githubusercontent.com/79328907/204104852-31d26df4-de3b-4d11-83fa-2b57baa21b42.png)
 
 ## Conclusion: 
+Achieved a 98% or better model accuracy. The built model and tokenizer can be saved to a file and used in future software to forecast gender bias.
 ## Team:
 
 * [Ankitha C](https://github.com/Ankithac45)

@@ -1,4 +1,4 @@
-# MAchine Intelligence Project
+# Machine Intelligence Project
 # Gender Bias Detection using Sentiment Analysis
 ## Problem Statement:
 As is well known, there are many vulnarable

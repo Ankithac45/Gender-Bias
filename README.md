@@ -19,6 +19,10 @@ This emotive examination of tweets raises public awareness and permits women to 
 ## Biasfinder: Generating metamorphic tests to detect bias in sentiment analysis systems
 ## Data Extraction:
 Web scraping of Twitter data has been used to collect data from social networking services (SNS). The SNSCRAPE scraping utility retrieves data from hashtags without the need to access Twitter's API or obtain developer account permission.
+## Model Build and Validation:
+
+![image](https://user-images.githubusercontent.com/79328907/204104852-31d26df4-de3b-4d11-83fa-2b57baa21b42.png)
+
 ## Conclusion: 
 ## Team:
 
